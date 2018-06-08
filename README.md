@@ -12,7 +12,7 @@ cd branch_test
 
 git init
 
-git add remote add fork [VOTRE LIEN FORK]
+git remote add fork [VOTRE LIEN FORK]
 
 git remote add branch git@github.com:PierreDemailly/branche_pierre.git
 
