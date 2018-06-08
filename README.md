@@ -1,10 +1,6 @@
 FORKEZ ce repo
 
-cd ~
-
-mkdir Sites
-
-cd Sites
+cd ~/Sites
 
 mkdir branch_test
 
